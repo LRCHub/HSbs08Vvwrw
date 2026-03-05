@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "聖槍爆裂ボーイ",
+  "base_artist": "りぶ",
+  "createdAt": "2026-03-05T16:11:30.385590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり&もじゃ(大柴広己) feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/01_聖槍爆裂ボーイ_れるりり&もじゃ(大柴広己)_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり×もじゃ（大柴広己） feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/02_聖槍爆裂ボーイ_れるりり×もじゃ(大柴広己)_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり&もじゃ(大柴広己)",
+      "has_synced": true,
+      "path": "select/03_聖槍爆裂ボーイ_れるりり&もじゃ(大柴広己).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり; もじゃ（大柴広己）; 鏡音レン",
+      "has_synced": false,
+      "path": "select/04_聖槍爆裂ボーイ_れるりり;_もじゃ(大柴広己);_鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり×大柴広己",
+      "has_synced": true,
+      "path": "select/05_聖槍爆裂ボーイ_れるりり×大柴広己.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "Rerulili×大柴広己 feat. Kagamine Len",
+      "has_synced": true,
+      "path": "select/06_聖槍爆裂ボーイ_Rerulili×大柴広己_feat._Kagamine_Len.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "Rerulili・大柴広己 feat. Kagamine Len",
+      "has_synced": true,
+      "path": "select/07_聖槍爆裂ボーイ_Rerulili・大柴広己_feat._Kagamine_Len.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり",
+      "has_synced": true,
+      "path": "select/08_聖槍爆裂ボーイ_れるりり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/09_聖槍爆裂ボーイ_Rib.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "+α",
+      "has_synced": true,
+      "path": "select/10_聖槍爆裂ボーイ_+α.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり・もじゃ feat.鏡音レン",
+      "has_synced": false,
+      "path": "select/11_聖槍爆裂ボーイ_れるりり・もじゃ_feat.鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/12_聖槍爆裂ボーイ_96猫.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/13_聖槍爆裂ボーイ_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/14_聖槍爆裂ボーイ_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/15_聖槍爆裂ボーイ_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "れるりり・もじゃ feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/16_聖槍爆裂ボーイ_れるりり・もじゃ_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/17_聖槍爆裂ボーイ_VA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "聖槍爆裂ボーイ",
+      "artist": "りぶ",
+      "has_synced": false,
+      "path": "select/pl_01_聖槍爆裂ボーイ_りぶ.txt"
+    }
+  ]
+}
